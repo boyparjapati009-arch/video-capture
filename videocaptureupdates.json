@@ -1,6 +1,6 @@
 {
-  "showDialog": true,
-  "showLater": true,
+  "showDialog": false,
+  "showLater": false,
   "versionCode": 2,
   "versionName": "1.1",
   "title": "Naya update aaya hai",

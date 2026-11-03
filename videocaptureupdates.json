@@ -1,1 +1,9 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "title": "Naya update aaya hai",
+  "message": "• Naya design\n• Bug fixes\n• Speed behtar",
+  "updateUrl": "https://github.com/boyparjapati009-arch/video-capture/releases/latest",
+  "force": false
+}
 
